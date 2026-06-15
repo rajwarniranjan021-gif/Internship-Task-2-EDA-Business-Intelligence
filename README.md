@@ -110,19 +110,7 @@ Created dashboard mockup containing important KPIs:
 - Top Categories
 - Customer Insights
 - Monthly Growth
-
----
-
-## 📂 Repository Structure
-Data-Analytics-Internship-Task-2/
-
-│── dataset/
-│── sql_queries/
-│── notebooks/
-│── visualizations/
-│── dashboard/
-│── README.md
-
+- 
 ---
 
 ## 📈 Outcome
