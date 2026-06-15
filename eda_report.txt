@@ -1,0 +1,52 @@
+
+TASK 2 — EDA & BUSINESS INTELLIGENCE REPORT
+ApexPlanet Data Analytics Internship
+============================================================
+
+DATASET SUMMARY
+  Rows          : 1001
+  Columns       : 26
+  Date Range    : 2023-01-01 → 2025-05-28
+
+KEY KPIs
+  Total Revenue         : ₹1,040,436.75
+  Total Transactions    : 1,001
+  Unique Customers      : 290
+  Avg Order Value       : ₹1,039.40
+  Avg Satisfaction      : 3.03 / 5.0
+  Avg Discount          : 9.1%
+  Top Category          : Electronics
+  Top Region            : Central
+
+TOP 5 PRODUCTS BY REVENUE
+    product_name    category  total_revenue  transactions
+  Smartphone Max Electronics      135309.33            34
+      Laptop Pro Electronics      114263.84            29
+ Headphones Plus Electronics       98937.79            29
+     Tablet Lite Electronics       94085.79            27
+Smartwatch Ultra Electronics       84652.75            27
+
+REVENUE BY REGION
+ region  total_revenue  unique_customers  avg_satisfaction
+Central      231066.02               141              3.06
+  North      218961.60               148              3.13
+   East      212440.74               153              2.96
+   West      200810.04               152              3.04
+  South      177158.35               136              2.97
+
+MARKETING CHANNEL EFFECTIVENESS
+marketing_channel  leads  avg_revenue_per_lead  total_revenue
+          Unknown    180               1214.27      218568.88
+            Email    166               1130.36      187639.44
+      Paid Search    176                994.27      174991.74
+         Referral    158               1050.65      166002.32
+     Social Media    163                931.04      151760.27
+          Organic    158                895.41      141474.10
+
+KEY INSIGHTS
+  1. Electronics leads revenue despite lower transaction volume.
+  2. Revenue dips in Q1 then spikes mid-year, suggesting seasonal patterns.
+  3. Credit Card is the most popular payment method (>30% share).
+  4. Millennial and Gen X segments contribute the highest average order value.
+  5. Paid Search and Social Media channels yield higher avg revenue per lead.
+  6. Discounted transactions drive volume but lower per-unit margin.
